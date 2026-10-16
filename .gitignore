@@ -1,0 +1,45 @@
+# Системные файлы и ОС
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Настройки редакторов и IDE
+.idea/
+*.iml
+*.iws
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.project
+.classpath
+.settings/
+
+# Логи и временные файлы
+*.log
+*.sqlite
+*.db
+tmp/
+temp/
+2.0/
+
+# Зависимости и сборка (универсально)
+node_modules/
+venv/
+env/
+ENV/
+target/
+dist/
+build/
+
+# Секретные файлы и конфигурации окружения
+.env
+.env.local
+.env.*.local
+secrets.json
+config.json
+.database.ini
