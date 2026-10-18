@@ -42,4 +42,4 @@ build/
 .env.*.local
 secrets.json
 config.json
-.database.ini
+database.ini
